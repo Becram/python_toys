@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import requests
+import requests
 import datetime
 from bs4 import BeautifulSoup
 import random
